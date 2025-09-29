@@ -3,7 +3,7 @@
 I'm a Data Analytics professional based in the USA who is passionate about finding new ways to apply his skills. <br>
 
 ## About Me
-- Location: USA 🇺🇸
+- Location: USA    
 - Experience: 7 years 🧑🏻‍💻
 - Education: BA in Economics with a Statisitics Minor
 
