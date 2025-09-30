@@ -3,10 +3,13 @@
 I'm a Data Analytics professional based in the USA who is passionate about finding new ways to apply his skills. <br>
 
 ## About Me
-- Location: USA    
+- Location: USA     
 - Experience: 7 years 🧑🏻‍💻
-- Education: BA in Economics with a Statisitics Minor
+- Education: BA in Economics with a Statistics Minor
 
+#### Portfolio Projects
+- [Credit Risk Analysis Project (2% complete)](https://github.com/helios1014/credit_risk_analysis)
+- [Marketing Mixture Model Project (75% complet)](https://github.com/helios1014/marketing_mix_modeling)
 #### Languages
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](https://github.com/helios1014)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://github.com/helios1014)
