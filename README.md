@@ -10,6 +10,7 @@ I'm a Data Analytics professional based in the USA who is passionate about findi
 #### Portfolio Projects
 - [Credit Risk Analysis Project (2% complete)](https://github.com/helios1014/credit_risk_analysis)
 - [Marketing Mixture Model Project (75% complet)](https://github.com/helios1014/marketing_mix_modeling)
+
 #### Languages
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](https://github.com/helios1014)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://github.com/helios1014)
