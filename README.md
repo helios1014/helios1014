@@ -8,6 +8,7 @@ I'm a Data Analytics professional based in the USA who is passionate about findi
 - Education: BA in Economics with a Statistics Minor
 
 #### Portfolio Projects
+- [ETL Project for US State Department Travel Advisories (version 1.0 complete)](https://github.com/helios1014/US_State_Department_Travel_Advisories)
 - [Credit Risk Analysis Project (2% complete)](https://github.com/helios1014/credit_risk_analysis)
 - [Marketing Mixture Model Project (75% complet)](https://github.com/helios1014/marketing_mix_modeling)
 
